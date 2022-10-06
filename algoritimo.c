@@ -1,3 +1,6 @@
+/*
+  Usuário GITHUB: NadinePeres
+*/
 #include <stdio.h>
 #include <math.h>
 
