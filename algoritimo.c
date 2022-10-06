@@ -1,5 +1,6 @@
 /*
   Usuário GITHUB: NadinePeres
+  https://github.com/NadinePeres/atividade-de-producao-algoritimos/
 */
 #include <stdio.h>
 #include <math.h>
